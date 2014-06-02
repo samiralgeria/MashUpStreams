@@ -10,4 +10,12 @@
 <thumbnail>http://almagharibia.tv/neue/web/assets/almagharibia.png</thumbnail>
 </item>
 
+
+<item>
+<title>Ennahar TV</title>
+<link>rtmp://87.98.155.194/live/EnnaharTV</link>
+</item>
+
+link='rtmp://87.98.155.194/live/EnnaharTV' 
+
 </channel>
